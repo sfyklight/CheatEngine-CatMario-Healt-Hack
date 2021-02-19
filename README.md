@@ -1,2 +1,2 @@
 # CheatEngine-CatMario-Healt-Hack
-CE
+dosyayı çalştırın ve "Active" seçeneğini işaretleyin
