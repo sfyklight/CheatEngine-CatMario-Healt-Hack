@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="26">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>0</ID>
+      <Description Activated="1">"Health"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"éÁéÕé-é±é¦âAâNâVâçâô.exe"+1A1290</Address>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>
